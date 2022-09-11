@@ -1,0 +1,1 @@
+* https://KseniyaSenkiv.github.io/rsschool-cv/cv
