@@ -25,15 +25,18 @@ function highAndLow(numbers) {
   ```
   
   ## Education:
+  
   * Belarusian State University (2013-2018), (2018-2019)
   * Academy of Public Administration (2017-2020)
   * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
   * HTML academy
   
   ## Experience:
+  
   Since 2018 I have been working as a meteorological engineer.
   
   ## Languages:
+  
   * **Russian** - *Native*
   * **Belarussian** - *Native*
   * **English** - *Pre-Intermediate* (in the process of studying)
